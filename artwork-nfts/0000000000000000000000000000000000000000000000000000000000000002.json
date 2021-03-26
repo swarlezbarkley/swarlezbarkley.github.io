@@ -1,0 +1,16 @@
+{
+  "name":"The Starry Night",
+  "description": "The Starry Night is an oil on canvas painting by Dutch Post-Impressionist painter Vincent van Gogh. Painted in June 1889, it depicts the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence, just before sunrise, with the addition of an imaginary village.",
+  "image": "https://www.vangoghgallery.com/img/starry_night_full.jpg",
+  "properties":{
+    "artist": "Vincent van Gogh",
+    "price":{
+      "amount": 500,
+      "currency": "USD"
+    },
+    "subject": "Saint-Rémy-de-Provence",
+    "medium": "Oil Paint",
+    "created": "1889",
+    "periods": ["Post-Impressionism", "Modern art"]
+  }
+}

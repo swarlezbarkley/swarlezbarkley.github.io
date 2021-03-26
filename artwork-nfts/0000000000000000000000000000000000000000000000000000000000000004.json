@@ -1,0 +1,16 @@
+{
+  "name": "The Night Watch",
+  "description": "Militia Company of District II under the Command of Captain Frans Banninck Cocq, also known as The Shooting Company of Frans Banning Cocq and Willem van Ruytenburch, but commonly referred to as The Night Watch, is a 1642 painting by Rembrandt van Rijn.",
+  "image": "https://static.dw.com/image/45910106_101.jpg",
+  "properties":{
+    "artist": "Rembrandt",
+    "subject": "Frans Banninck Cocq, Schutterij",
+    "medium": "Oil Paint",
+    "created": "1642",
+    "periods": ["Baroque", "Dutch Golden Age"],
+    "price": {
+      "amount": 400,
+      "currency": "USD"
+    }
+  }
+}

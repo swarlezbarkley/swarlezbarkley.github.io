@@ -1,0 +1,16 @@
+{
+  "name": "Arnolfini Portrait",
+  "description": "The Arnolfini Portrait is a 1434 oil painting on oak panel by the Early Netherlandish painter Jan van Eyck. It forms a full-length double portrait, believed to depict the Italian merchant Giovanni di Nicolao Arnolfini and his wife, presumably in their residence at the Flemish city of Bruges.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg",
+  "properties":{
+    "artist": "Jan van Eyck",
+    "subject": "Marriage",
+    "medium": "Oil Paint, Oak",
+    "created": "1434",
+    "periods": ["Northern Renaissance", "Early renaissance"],
+    "price":{
+      "amount": 500,
+      "currency": "USD"
+    }
+  }
+}
