@@ -1,0 +1,12 @@
+{
+  "name":"Mona Lisa",
+  "description":"The Mona Lisa is an oil painting by Italian artist, inventor, and writer Leonardo da Vinci. Likely completed in 1506, the piece features a portrait of a seated woman set against an imaginary landscape.",
+  "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/1200px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+  "properties":{
+    "author":"Leonardo Da Vinci",
+    "price":{
+      "amount":250,
+      "currency":"USD"
+    }
+  }
+}
